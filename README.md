@@ -150,3 +150,17 @@ Expected answer should retrieve the Salem digital literacy visit and mention lap
 ## Project Status
 
 Deployed and tested with Supabase PostgreSQL, Supabase Storage, Supabase Auth, Gemini AI, Gemini embeddings, and RAG search.
+
+## Screenshots
+
+### Login
+![Login](assets/screenshots/login.png)
+
+### Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### New Visit
+![New Visit](assets/screenshots/new-visit.png)
+
+### Ask AI / RAG
+![Ask AI](assets/screenshots/ask-ai.png)
