@@ -1,0 +1,11 @@
+name = "fieldsense"
+main = "dist/server/index.js"
+compatibility_date = "2026-06-23"
+
+[observability]
+enabled = true
+
+[vars]
+SUPABASE_STORAGE_BUCKET = "visit-media"
+GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_EMBEDDING_MODEL = "gemini-embedding-2"
